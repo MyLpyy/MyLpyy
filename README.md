@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MyLpyy
+- 👀 I’m interested in Programming and IT in general
+- 🌱 I’m currently learning Web developpement
+- 📫 thibrobi@gmail.com
